@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToeGame</string>
+    <string name="pick_who_goes_first">Pick who goes first?</string>
+    <string name="tic_tac_toe">TIC-TAC-TOE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
